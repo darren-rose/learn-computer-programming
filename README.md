@@ -8,5 +8,5 @@ We will use the Java programming language specifically Java 8
 1. Verify the JDK is installed correctly by opening a Terminal, command prompt, or DOS window, depending on your operating system.
 1. Enter the following and press return (you should then see the Java version information):
 ```
-java --version
+java -version
 ```
